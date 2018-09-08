@@ -11,3 +11,4 @@
  - English
   
 # Live version
+https://gpeter1987.github.io/Simple-Math-Game/
